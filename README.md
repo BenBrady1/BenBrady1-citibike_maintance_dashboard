@@ -1,6 +1,7 @@
 # Citi Bike Station Service Map
 
-**GitHub:** [github.com/BenBrady1/citibike_maintance_dashboard](https://github.com/BenBrady1/citibike_maintance_dashboard)
+## [→ View live in the Power BI portfolio hub ←](https://app.powerbi.com/view?r=eyJrIjoiMTY0NWY3ZTItOTUzZi00NzIyLThhYmQtMGFmMGQzY2RhZTU4IiwidCI6IjhjZDQ5Yzc0LWNiZjctNDcyMy1hYmMzLTFhN2QzYmRjZDNhMSIsImMiOjF9)
+*(opens the shared project hub — select "Citi Bike Station Service Map" from the title screen)*
 
 ## Overview
 
